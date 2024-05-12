@@ -1,7 +1,5 @@
 # "Hello World 🌏( •̀ ω •́ )✧"
 
-![Alt text](https://github.com/Kitiyaparnnn/Kitiyaparnnn/blob/main/header.png?raw=true)
-
 ## 💻 My Teach Stack
 ### Languges
 ![Alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
