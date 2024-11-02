@@ -1,7 +1,7 @@
 # "Hello World 🌏( •̀ ω •́ )✧"
 
 ## 💻 My Teach Stack
-### Languges
+### Languages
 ![Alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Alt text](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Alt text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,9 +17,10 @@
 
 ![Alt text](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
-### Android Development
+### Mobile Development
 ![Alt text](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Alt text](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Alt text](https://img.shields.io/badge/Swift-20BEFF?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Web Development
 ![Alt text](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -32,7 +33,7 @@
 
 ### Others
 ![Alt text](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![Alt text](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Alt text](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white)
 ![Alt text](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## 📊 My Git Stat
@@ -41,7 +42,7 @@
 ## 📫 My contect
 ![Alt text](https://img.shields.io/badge/Gmail-parn.takhum%40gmail.com-red)
 
-ref: https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
+*ref*: https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
 
 <!--
 **Kitiyaparnnn/Kitiyaparnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
