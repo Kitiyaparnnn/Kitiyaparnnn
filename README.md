@@ -1,4 +1,6 @@
-# "Hello World 🌏( •̀ ω •́ )✧"
+![header](https://github.com/user-attachments/assets/d43d527b-437b-41e2-a29e-58954992d6de)
+
+# "Hello World  🌏( •̀ ω •́ )✧"
 
 ## 💻 My Teach Stack
 ### Languages
